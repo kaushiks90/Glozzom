@@ -1,7 +1,7 @@
 {
-  "name": "bs4startup",
+  "name": "Glozzom",
   "version": "1.0.0",
-  "description": "Bootstrap4WorkFlow",
+  "description": "Glozzom",
   "main": "index.js",
   "scripts": {
     "start": "gulp"
